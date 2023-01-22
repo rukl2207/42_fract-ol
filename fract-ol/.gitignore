@@ -1,0 +1,14 @@
+.DS_Store
+*temp*
+*tmp*
+#*test*
+*.out
+#subject
+old
+*.o
+#*.txt
+tmp_files/
+.vscode/
+fractol
+*.a
+.idea/

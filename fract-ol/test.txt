@@ -1,0 +1,12 @@
+./fractol mandelbrot
+
+./fractol julia
+./fractol julia   -0.4 0.6
+./fractol julia   0.285 0
+./fractol julia  -0.8 0
+./fractol julia   0.285 0.01
+./fractol julia   0.45 0.1428
+
+./fractol burning_ship
+
+./fractol celtic_mandelbrot
